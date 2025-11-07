@@ -196,6 +196,6 @@ If you use LLM4IDS in academic work, please cite:
 ##  Acknowledgments
 
 - NSL‑KDD maintainers and the communities behind **sentence-transformers**, **scikit‑learn**, **TensorFlow**, **XGBoost**, **imbalanced‑learn**, and **LIME**.  
-- EGC 2026 reviewers for feedback on readability, reproducibility, and graphical consistency.
+-  readability, reproducibility, and graphical consistency.
 
 — Last updated: 2025-11-07 21:56
