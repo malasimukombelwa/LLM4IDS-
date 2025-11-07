@@ -191,16 +191,6 @@ This repository is released under the **MIT** license (or another permissive lic
 
 If you use LLM4IDS in academic work, please cite:
 
-```bibtex
-@inproceedings{MalasiMukombelwa2026LLM4IDS,
-  title     = {Semantic-Aware Intrusion Detection: A Multimodal Framework with Lightweight LLMs},
-  author    = {Malasi Mukombelwa, Jean-Jarcke and coauthors},
-  booktitle = {EGC 2026},
-  year      = {2026},
-  note      = {Code: https://github.com/malasimukombelwa/LLM4IDS-}
-}
-```
-
 ---
 
 ##  Acknowledgments
