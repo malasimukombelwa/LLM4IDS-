@@ -1,4 +1,4 @@
-# LLM4IDS-
+# LLM4IDS
 A Multimodal Framework with Lightweight LLMs
 Input: network flow table (e.g., NSL‑KDD / CICIDS2017),
 Output: intrusion class (multiclass) + confidence + explanation hooks.
